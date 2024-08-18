@@ -1,4 +1,4 @@
-[![Build & Test](https://github.com/VerzeFullStack/demo/actions/workflows/ci.yml/badge.svg)](https://github.com/VerzeFullStack/demo/actions/workflows/ci.yml)
+[![Build & Test](https://github.com/ZhuomingWu622/webdev/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ZhuomingWu622/webdev/actions/workflows/ci.yml)
 
 # React + TypeScript + Vite
 
